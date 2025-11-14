@@ -1,3 +1,3 @@
 ## Output Screenshot
 
-![Output Screenshot](screenshots/screenshot5.png)
+![Output Screenshot](screenshots/Screenshot5.png)
